@@ -1,6 +1,3 @@
-#Python rock paper scissor game made by Debroop(pythonRPS.py) 
-#roll number 235/UCS/049
-import random
 
 # Python rock paper scissor game made by Debroop (pythonRPS.py)
 # Roll number 235/UCS/049
@@ -45,3 +42,4 @@ def rock_paper_scissor():
             losses += 1
 
 rock_paper_scissor()
+
